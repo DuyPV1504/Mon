@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1651858900 source:d:\lap trinh c++\game sdl\music.cpp
+	"music.h"
+	"Utlis.h"
+
+1651858847 d:\lap trinh c++\game sdl\music.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<string>
+
+1649303073 source:d:\lap trinh c++\game sdl\wallpaper.cpp
+	"wallpaper.h"
+
+1649303074 d:\lap trinh c++\game sdl\wallpaper.h
+
+1649850660 source:d:\lap trinh c++\game sdl\fox.cpp
+
+1651316284 source:d:\lap trinh c++\game sdl\game_function.cpp
+	"game_function.h"
+
+1651113211 source:d:\lap trinh c++\game sdl\utlis.cpp
+	"Utlis.h"
+
+1651113376 d:\lap trinh c++\game sdl\utlis.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"music.h"
+
+1651714641 d:\lap trinh c++\game sdl\game_function.h
+	"music.h"
+	"Doraemon.h"
+	"Enemy.h"
+	"Text.h"
+
+1651819698 d:\lap trinh c++\game sdl\doraemon.h
+	"music.h"
+
+1651678776 d:\lap trinh c++\game sdl\enemy.h
+	<cstdlib>
+	<ctime>
+	"music.h"
+
+1651130827 d:\lap trinh c++\game sdl\text.h
+	"music.h"
+
+1651132630 source:d:\lap trinh c++\game sdl\text.cpp
+	"Text.h"
+
+1651860106 source:d:\lap trinh c++\game sdl\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<cstdlib>
+	<ctime>
+	"music.h"
+	"Utils.h"
+	"Text.h"
+	"Doraemon.h"
+	"Enemy.h"
+	"dorayaki.h"
+	"game_function.h"
+
+1649252371 d:\lap trinh c++\game sdl\utils.h
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_mixer.h>
+
+1651653845 d:\lap trinh c++\game sdl\dorayaki.h
+	"music.h"
+
